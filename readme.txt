@@ -15,6 +15,12 @@ This plugin allows you to disable native Wordpress lazy loading.
 Lazy loading speeds up site loading, but sometimes it gets in the way.
 This plugin disables native lazy loading in Wordpress 5.5 and higher.
 
+**More Info**
+
+For more information about the new WP Lazy Load functionality:
+
+* [Lazy-loading of images is in Wordpress core](https://make.wordpress.org/core/2020/04/08/lazy-loading-of-images-is-in-core/)
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/disable-lazy-load` directory, or install the plugin through the WordPress plugins screen directly.
